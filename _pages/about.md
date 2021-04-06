@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the Department of Electronic Engineering, Tsinghua University, advised by Prof. Yong Li. I received my bachelor degree from the Department of Electronic Engineering, Tsinghua University in 2020.
+I am a first-year PhD student in the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/publish/eeen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor degree from the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/publish/eeen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
 
 Research Interests
 ======
