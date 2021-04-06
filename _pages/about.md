@@ -12,7 +12,7 @@ I am a first-year PhD student in the Department of Electronic Engineering, Tsing
 
 Research Interests
 ======
-My research interests lie in the intersection of data science, computational social science, social computing, and human-computer interaction. Recently I am paying special attention to human-centered approaches to understand the interactions between human and intelligent systems & algorithms, especially AI.
+My research interests lie in the intersection of data science, computational social science, social computing, and human-computer interaction. Recently I am paying special attention to understanding the interactions between human and intelligent systems & algorithms, especially AI.
 
 Publications
 ======
