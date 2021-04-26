@@ -12,11 +12,11 @@ author_profile: true
 
 2021
 ------
-**Zhilong Chen\***, Hancheng Cao\*, Yuting Deng, Xuan Gao, Jinghua Piao, Fengli Xu, Yu Zhang, Yong Li. Learning from Home: A Mixed-Methods Analysis of Live Streaming Based Remote Education Experience in Chinese Colleges during the COVID-19 Pandemic. Accepted by the 2021 ACM CHI Conference on Human Factors in Computing Systems (CHI'21).
+**Zhilong Chen\***, Hancheng Cao\*, Yuting Deng, Xuan Gao, Jinghua Piao, Fengli Xu, Yu Zhang, Yong Li. Learning from Home: A Mixed-Methods Analysis of Live Streaming Based Remote Education Experience in Chinese Colleges during the COVID-19 Pandemic. In the 2021 ACM CHI Conference on Human Factors in Computing Systems (CHI'21).
 
-Hancheng Cao\*, **Zhilong Chen\***, Mengjie Cheng, Shuling Zhao, Tao Wang, Yong Li. You Recommend, I Buy: How and Why People Engage in Instant Messaging Based Social Commerce. Accepted by the 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'21).
+Hancheng Cao\*, **Zhilong Chen\***, Mengjie Cheng, Shuling Zhao, Tao Wang, Yong Li. You Recommend, I Buy: How and Why People Engage in Instant Messaging Based Social Commerce. In the 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'21).
 
-Jinghua Piao, Guozhen Zhang, Fengli Xu, **Zhilong Chen**, Yong Li. Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks. Accepted by 30th The Web Conference (WWW'21).  
+Jinghua Piao, Guozhen Zhang, Fengli Xu, **Zhilong Chen**, Yong Li. Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks. In 30th The Web Conference (WWW'21).  
 
 2020
 ------
