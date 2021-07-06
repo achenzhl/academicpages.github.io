@@ -32,4 +32,6 @@ Hancheng Cao\*, **Zhilong Chen\***, Fengli Xu, Tao Wang, Yujian Xu, Lianglun Zha
 ------
 Hancheng Cao, **Zhilong Chen**, Fengli Xu, Yong Li, Vassilis Kostakos. Revisitation in Urban Space vs. Online: A Comparison across POIs, Websites, and Smartphone Apps. In the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp'19).
 
+2018
+------
 Fengli Xu, Guozhen Zhang, **Zhilong Chen**, Jiaxin Huang, Yong Li, Diyi Yang, Ben Y. Zhao, Fanchao Meng. Understanding Motivations behind Inaccurate Check-ins. In the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'18).
