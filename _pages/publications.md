@@ -28,10 +28,8 @@ Jinghua Piao, Guozhen Zhang, Fengli Xu, **Zhilong Chen**, Yong Li. Predicting Cu
 
 Hancheng Cao\*, **Zhilong Chen\***, Fengli Xu, Tao Wang, Yujian Xu, Lianglun Zhang, Yong Li. When Your Friends Become Sellers: An Empirical Study of Social Commerce Site Beidian. In the 14th International Conference on Web and Social Media (ICWSM'20).  
 
-2019
+2018
 ------
 Hancheng Cao, **Zhilong Chen**, Fengli Xu, Yong Li, Vassilis Kostakos. Revisitation in Urban Space vs. Online: A Comparison across POIs, Websites, and Smartphone Apps. In the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp'19).
 
-2018
-------
 Fengli Xu, Guozhen Zhang, **Zhilong Chen**, Jiaxin Huang, Yong Li, Diyi Yang, Ben Y. Zhao, Fanchao Meng. Understanding Motivations behind Inaccurate Check-ins. In the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'18).
