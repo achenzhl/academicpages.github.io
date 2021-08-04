@@ -16,7 +16,7 @@ author_profile: true
 
 Hancheng Cao\*, **Zhilong Chen\***, Mengjie Cheng, Shuling Zhao, Tao Wang, Yong Li. You Recommend, I Buy: How and Why People Engage in Instant Messaging Based Social Commerce. In the 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'21).
 
-Jinghua Piao, Guozhen Zhang, Fengli Xu, **Zhilong Chen**, Yong Li. Bringing Friends in the Loop of Recommender Systems: An Exploratory Study. In the 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW’21).
+Jinghua Piao, Guozhen Zhang, Fengli Xu, **Zhilong Chen**, Yu Zheng, Chen Gao, Yong Li. Bringing Friends into the Loop of Recommender Systems: An Exploratory Study. In the 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW’21).
 
 Jinghua Piao, Guozhen Zhang, Fengli Xu, **Zhilong Chen**, Yong Li. Predicting Customer Value with Social Relationships via Motif-based Graph Attention Networks. In 30th The Web Conference (WWW'21).  
 
