@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/publish/eeen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor degree from the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/publish/eeen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
+I am a second-year PhD student in the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/publish/eeen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor degree from the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/publish/eeen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
 
 Research Interests
 ======
-My research interests lie in the intersection of data science, computational social science, social computing, and human-computer interaction. Recently I am paying special attention to understanding the interactions between human and intelligent systems & algorithms, especially AI.
+My research interests lie in the intersection of social computing, computational social science, data science, and human-computer interaction. Recently I am paying special attention to understanding the interactions between human and intelligent systems and technology for good.
 
 Publications
 ======
