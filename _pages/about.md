@@ -12,11 +12,15 @@ I am a second-year PhD student in the [Department of Electronic Engineering](htt
 
 Research Interests
 ======
-My research interests lie in the intersection of social computing, computational social science, data science, and human-computer interaction. Recently I am paying special attention to understanding the interactions between human and intelligent systems and technology for good.
+My research interests lie in social computing, computational social science, and data science. Recently I am paying special attention to understanding the interactions between human and intelligent systems and technology for good.
 
 Publications
 ======
 (\* indicates equal contribution)  
+
+2022
+------
+**Zhilong Chen\***, Hancheng Cao\*, Xiaochong Lan, Zhicong Lu, Yong Li. Beyond Virtual Bazaar: How Social Commerce Promotes Inclusivity for the Traditionally Underserved Community in Chinese Developing Regions. In the 2022 ACM CHI Conference on Human Factors in Computing Systems (CHI'22).
 
 2021
 ------
@@ -40,12 +44,12 @@ Hancheng Cao\*, **Zhilong Chen\***, Fengli Xu, Tao Wang, Yujian Xu, Lianglun Zha
 ------
 Hancheng Cao, **Zhilong Chen**, Fengli Xu, Yong Li, Vassilis Kostakos. Revisitation in Urban Space vs. Online: A Comparison across POIs, Websites, and Smartphone Apps. In the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp'19).
 
-
 Fengli Xu, Guozhen Zhang, **Zhilong Chen**, Jiaxin Huang, Yong Li, Diyi Yang, Ben Y. Zhao, Fanchao Meng. Understanding Motivations behind Inaccurate Check-ins. In the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'18).
 
 
 Selected Honors and Awards
 ======
+• **Tsinghua Comprehensive Excellence Award** 2021
 • **Tsinghua Future Scholar Scholarship** 2020  
 • **Tsinghua Outstanding Graduate Award** 2020 (64/3312, 2%)  
 • **Beijing Outstanding Graduate Award** 2020 (169/3312, 5%)  
