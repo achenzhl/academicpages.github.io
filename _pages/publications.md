@@ -10,6 +10,10 @@ author_profile: true
 
 (\* indicates equal contribution)  
 
+2022
+------
+**Zhilong Chen\***, Hancheng Cao\*, Xiaochong Lan, Zhicong Lu, Yong Li. Beyond Virtual Bazaar: How Social Commerce Promotes Inclusivity for the Traditionally Underserved Community in Chinese Developing Regions. In the 2022 ACM CHI Conference on Human Factors in Computing Systems (CHI'22).
+
 2021
 ------
 **Zhilong Chen\***, Hancheng Cao\*, Yuting Deng, Xuan Gao, Jinghua Piao, Fengli Xu, Yu Zhang, Yong Li. Learning from Home: A Mixed-Methods Analysis of Live Streaming Based Remote Education Experience in Chinese Colleges during the COVID-19 Pandemic. In the 2021 ACM CHI Conference on Human Factors in Computing Systems (CHI'21).
