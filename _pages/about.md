@@ -12,7 +12,7 @@ I am a second-year PhD student in the [Department of Electronic Engineering](htt
 
 Research Interests
 ======
-My research interests lie in social computing, computational social science, and data science. Recently I am paying special attention to understanding the interactions between human and intelligent systems and technology for good.
+My research interests lie in social computing, computational social science, data science, and human-computer interaction. Recently I am paying special attention to understanding scientific collaborations, the interactions between human and intelligent systems and technology for good.
 
 Publications
 ======
@@ -20,6 +20,10 @@ Publications
 
 2022
 ------
+**Zhilong Chen**, Xiaochong Lan, Jinghua Piao, Yunke Zhang, Yong Li. A Mixed-Methods Analysis of the Algorithm-Mediated Labor of Online Food Deliverers in China. Accepted by the 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'22).
+
+**Zhilong Chen\***, Jinghua Piao\*, Xiaochong Lan, Hancheng Cao, Chen Gao, Zhicong Lu, Yong Li. Practitioners Versus Users: A Value-Sensitive Evaluation of Current Industrial Recommender System Design. Accepted by the 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'22).
+
 **Zhilong Chen\***, Hancheng Cao\*, Xiaochong Lan, Zhicong Lu, Yong Li. Beyond Virtual Bazaar: How Social Commerce Promotes Inclusivity for the Traditionally Underserved Community in Chinese Developing Regions. In the 2022 ACM CHI Conference on Human Factors in Computing Systems (CHI'22).
 
 2021
