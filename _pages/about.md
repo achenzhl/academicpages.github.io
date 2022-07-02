@@ -12,7 +12,7 @@ I am a second-year PhD student in the [Department of Electronic Engineering](htt
 
 Research Interests
 ======
-My research interests lie in social computing, computational social science, data science, and human-computer interaction. Recently I am paying special attention to understanding scientific collaborations, the interactions between human and intelligent systems and technology for good.
+My research interests lie in social computing, computational social science, data science, and human-computer interaction. Recently I am paying special attention to understanding scientific collaborations, human-AI/algorithm interactions, and technology for good.
 
 Publications
 ======
