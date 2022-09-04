@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Zhilong Chen"
+excerpt: "Zhilong Chen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a second-year PhD student in the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/publish/eeen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor degree from the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/publish/eeen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
+I am a third-year PhD student in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/). I received my bachelor degree from the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
 
 Research Interests
 ======
