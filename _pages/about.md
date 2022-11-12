@@ -20,9 +20,9 @@ Publications
 
 2022
 ------
-**Zhilong Chen**, Xiaochong Lan, Jinghua Piao, Yunke Zhang, Yong Li. A Mixed-Methods Analysis of the Algorithm-Mediated Labor of Online Food Deliverers in China. Accepted by the 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'22).
+**Zhilong Chen**, Xiaochong Lan, Jinghua Piao, Yunke Zhang, Yong Li. A Mixed-Methods Analysis of the Algorithm-Mediated Labor of Online Food Deliverers in China. In the 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'22).
 
-**Zhilong Chen\***, Jinghua Piao\*, Xiaochong Lan, Hancheng Cao, Chen Gao, Zhicong Lu, Yong Li. Practitioners Versus Users: A Value-Sensitive Evaluation of Current Industrial Recommender System Design. Accepted by the 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'22).
+**Zhilong Chen\***, Jinghua Piao\*, Xiaochong Lan, Hancheng Cao, Chen Gao, Zhicong Lu, Yong Li. Practitioners Versus Users: A Value-Sensitive Evaluation of Current Industrial Recommender System Design. In the 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'22).
 
 **Zhilong Chen\***, Hancheng Cao\*, Xiaochong Lan, Zhicong Lu, Yong Li. Beyond Virtual Bazaar: How Social Commerce Promotes Inclusivity for the Traditionally Underserved Community in Chinese Developing Regions. In the 2022 ACM CHI Conference on Human Factors in Computing Systems (CHI'22).
 
@@ -53,6 +53,7 @@ Fengli Xu, Guozhen Zhang, **Zhilong Chen**, Jiaxin Huang, Yong Li, Diyi Yang, Be
 
 Selected Honors and Awards
 ======
+• **China National Scholarship** 2022  
 • **Tsinghua Comprehensive Excellence Award** 2021  
 • **Tsinghua Future Scholar Scholarship** 2020  
 • **Tsinghua Outstanding Graduate Award** 2020 (64/3312, 2%)  
@@ -61,4 +62,4 @@ Selected Honors and Awards
 • **China National Scholarship** 2018  
 • **China National Scholarship** 2017  
 • **Tsinghua Comprehensive Excellence Award** 2017, 2018, 2019  
-• **Tsinghua Excellent Student Cadre Award** 2019  
+• **Tsinghua Excellent Student Cadre Award** 2019, 2022  
